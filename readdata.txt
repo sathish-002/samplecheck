@@ -1,4 +1,6 @@
 nothing have entered
 ram sam eno
 
-first time entering the github
+first time entering the GitHub
+
+clone pushed to the github
